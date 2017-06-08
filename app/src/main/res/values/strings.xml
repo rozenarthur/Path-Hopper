@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week10_Demo3</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="players">
+        <item>Choose a player to play as</item>
+    </string-array>
+</resources>

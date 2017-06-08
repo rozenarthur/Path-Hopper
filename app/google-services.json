@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1020687970251",
+    "firebase_url": "https://csit451-assigment4.firebaseio.com",
+    "project_id": "csit451-assigment4",
+    "storage_bucket": "csit451-assigment4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020687970251:android:94442d0719a34ae0",
+        "android_client_info": {
+          "package_name": "com.example.m_alrajab.week10_demo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020687970251-vdetkfdn26i0iln7mfsbmrvq5k39ntjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKp14E-UE9dWR1rBj4CHw30nuxXO62HCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
